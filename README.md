@@ -12,7 +12,7 @@ $ python3 -m venv pytorch
 $ source pytorch/bin/activate   
 $ pip install torchvision
 $ python3 pytorch_classify_images.py assets/cat.jpg
-Prediction: Pembroke, Pembroke Welsh corgi
+Prediction: tabby, tabby cat
 ```
 
 ResNet18
